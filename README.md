@@ -18,5 +18,5 @@ If you feel that the font has been useful, feel free to donate any amount you th
 https://www.paypal.me/silverblurtype
 
 
-## [Download](https://github.com/silverblurtype/fonts/raw/main/sb_skate_blade/SBSkateblade-Regular.otf)
+## [Download](sb-cosmio/SBCosmio-Bold.otf)
 
