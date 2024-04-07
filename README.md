@@ -1,17 +1,16 @@
-## SB Skate blade
+## SB Cosmio
 
-SB Skate blade is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
+SB Cosmio is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
-![Skate_blade_01](https://github.com/silverblurtype/fonts/assets/163983174/6ef25fb7-d845-4b7d-bcf7-ae6246570c22)
+![Introducing](https://github.com/silverblurtype/sb-cosmio/assets/163983174/0b0502f3-703d-45f8-8e3d-71580a198103)
 
-![Skate_blade_02](https://github.com/silverblurtype/fonts/assets/163983174/8e94ad19-6a81-476b-84d8-294663bb4458)
+![Font_specimen 1](https://github.com/silverblurtype/sb-cosmio/assets/163983174/ef6e243d-bdae-4b90-8d2d-dac49e88b872)
 
-![Skate_blade_03](https://github.com/silverblurtype/fonts/assets/163983174/c41033df-f847-47d0-9785-1359e2666d33)
-
+![img_3](https://github.com/silverblurtype/sb-cosmio/assets/163983174/8b7a0099-b1a3-4e3a-b091-f17f229cc546)
 
 ## License:
-Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/sb-skateblade),
-with Reserved Font Name "SB Skate blade".
+Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/sb-cosmio),
+with Reserved Font Name "SB Cosmio".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
