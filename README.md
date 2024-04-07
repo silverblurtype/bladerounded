@@ -18,5 +18,5 @@ If you feel that the font has been useful, feel free to donate any amount you th
 https://www.paypal.me/silverblurtype
 
 
-## [Download](sb-cosmio/SBCosmio-Bold.otf)
+## [Download]([sb-cosmio/SBCosmio-Bold.otf](https://github.com/silverblurtype/sb-cosmio/blob/main/sb-cosmio/SBCosmio-Bold.otf))
 
