@@ -1,8 +1,9 @@
 ## SB Cosmio
 SB Cosmio is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
-![Introducing](https://github.com/silverblurtype/sb-cosmio/assets/163983174/0b0502f3-703d-45f8-8e3d-71580a198103)
-![Font_specimen 1](https://github.com/silverblurtype/sb-cosmio/assets/163983174/ef6e243d-bdae-4b90-8d2d-dac49e88b872)
-![img_3](https://github.com/silverblurtype/sb-cosmio/assets/163983174/8b7a0099-b1a3-4e3a-b091-f17f229cc546)
+![Introducing](https://github.com/silverblurtype/sb-cosmio/assets/163983174/c7c21771-1c3d-41d1-8543-beaa49dd66e2)
+![Font_specimen](https://github.com/silverblurtype/sb-cosmio/assets/163983174/2c821926-a38f-407e-88b5-2b4558b294e1)
+![img_3](https://github.com/silverblurtype/sb-cosmio/assets/163983174/36fd0df9-b77f-402a-8cd2-26e27ec86ff2)
+
 ## License:
 Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/sb-cosmio),
 with Reserved Font Name "SB Cosmio".
