@@ -1,6 +1,6 @@
 ## Blade rounded
-Blade rounded is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness.
-This font derived from skate blade and differs in its rounded edges
+Blade rounded is a font derived from skate blade and differs in its rounded edges.
+This is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness.
 
 ![Introducing](https://github.com/silverblurtype/blade-rounded/assets/163983174/d9b5beea-47bf-447f-a74a-43481d65a103)
 
