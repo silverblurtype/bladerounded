@@ -14,10 +14,8 @@ This is a modern, geometric and minimalistic font constructed with a few geometr
 ![1080 5](https://github.com/silverblurtype/blade-rounded/assets/163983174/200e2fe7-fd78-45e8-9016-d0558dc4c5a7)
 
 
-
-
 ## License:
-Copyright (c) 2024, Silverblur_type
+Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/abstante)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
