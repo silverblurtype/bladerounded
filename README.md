@@ -20,6 +20,9 @@ Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/bladeroun
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
 
+## Version:
+1.0: Initial release
+
 
 
 
