@@ -7,6 +7,7 @@ This is a modern, geometric and minimalistic font constructed with a few geometr
 
 Type of use:
 graphic projects, displays, branding, logos, headlines.
+
 All uppercase characters: the lowercase character is equal to the uppercase.
 
 
