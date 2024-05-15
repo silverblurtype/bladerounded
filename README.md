@@ -1,6 +1,6 @@
 # Blade rounded
 
-![Introducing](https://github.com/silverblurtype/blade-rounded/assets/163983174/d9b5beea-47bf-447f-a74a-43481d65a103){width=50%}
+![Introducing](https://github.com/silverblurtype/blade-rounded/assets/163983174/d9b5beea-47bf-447f-a74a-43481d65a103) {width=50%}
 
 ## Features:
 Blade rounded is a font derived from Skate blade and differs in its rounded edges.
