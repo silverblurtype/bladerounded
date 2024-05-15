@@ -18,6 +18,7 @@ graphic projects, displays, branding, logos, headlines.
 
 ## License:
 Copyright (c) 2024, Silverblur_type 
+
 The typefaces can be freely used for personal and commercial purposes, in accordance with the terms outlined in the license itself, which can be found in the license.txt file and at the following link: 
 https://openfontlicense.org
 
