@@ -7,9 +7,11 @@ Blade rounded is a font derived from skate blade and differs in its rounded edge
 This is a modern, geometric and minimalistic font constructed with a few geometric shapes with constant thickness.
 
 Type of use:
-graphic projects, displays, branding, logos, headlines.
+- graphic projects, displays, branding, logos, headlines.
 
-All uppercase characters: the lowercase character is equal to the uppercase.
+- All uppercase characters: the lowercase character is equal to the uppercase.
+- Language support.
+- Kerning.
 
 
 ![Font_specimen 4](https://github.com/silverblurtype/blade-rounded/assets/163983174/011218b7-766c-43b2-8cc4-bedf7c0b18a6)
