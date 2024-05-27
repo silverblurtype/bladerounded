@@ -27,6 +27,8 @@ https://openfontlicense.org
 ## Version:
 1.0: Initial release
 
+## Download:
 
+[Blade rounded](https://github.com/silverblurtype/elounda/releases/download/font/Elounda-1_1.zip)
 
 
